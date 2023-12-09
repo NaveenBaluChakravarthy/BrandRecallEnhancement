@@ -1,2 +1,2 @@
-# GenerativeAI
- Projects done with Generative Models
+# Brand Recall Enhancement
+A comprehensive solution suite aimed at improving the brand recall.
